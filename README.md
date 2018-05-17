@@ -11,7 +11,7 @@ This program simulates the computation of a DFA on a series of input strings, an
 1. Pull from `master` if you have not done it yet.
 2. Open `terminal` (`Command + Space`, then search for "terminal").
 3. `cd` into the same directory as where your code for algorithms is stored.
-For example, if my code is on the Desktop, then I'll need to use `cd Desktop/automata_computability_and_formal_languages`.
+For example, if my code is on the Desktop, then I'll need to use `cd Desktop/automata-computability-and-formal-languages`.
 4. Create an input `.txt` file, using the format specifyed in "Input File" Section.
 5. Complile and run the program, using `python dfa_simulation.py input_name.txt`
 
@@ -79,7 +79,7 @@ It reads input from a file that is specified as the first command line argument 
 1. Pull from `master` if you have not done it yet.
 2. Open `terminal` (`Command + Space`, then search for "terminal").
 3. `cd` into the same directory as where your code for algorithms is stored.
-For example, if my code is on the Desktop, then I'll need to use `cd Desktop/automata_computability_and_formal_languages`.
+For example, if my code is on the Desktop, then I'll need to use `cd Desktop/automata-computability-and-formal-languages`.
 4. Create an input `.txt` file, using the format specifyed in "Input File" Section.
 5. Complile and run the program, using `python nfa_to_dfa_conversion.py input_name.txt output_name.txt`
 
@@ -140,7 +140,7 @@ Here is how you will convert the regular expression into an equivalent NFA:
 1. Pull from `master` if you have not done it yet.
 2. Open `terminal` (`Command + Space`, then search for "terminal").
 3. `cd` into the same directory as where your code for algorithms is stored.
-For example, if my code is on the Desktop, then I'll need to use `cd Desktop/automata_computability_and_formal_languages`.
+For example, if my code is on the Desktop, then I'll need to use `cd Desktop/automata-computability-and-formal-languages`.
 4. Create an input `.txt` file, using the format specifyed in "Input File" Section.
 5. Complile and run the program, using `python regex_search.py input_name.txt output_name.txt`
 
